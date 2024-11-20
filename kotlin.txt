@@ -1,1 +1,12 @@
- Mapish28, natamerchan03@gmail.com
+[200~<form>
+    <input type=submit value=enviar form >
+    <input type=email placeholder=email >
+    <input type=password placeholder=contraseña required minlength=2 maxlength=6>
+    <input type=date placeholder=fecha >
+    <input type=radio >
+    <input type=checkbox  >
+    <input type=file placeholder=archivo >
+    <input type=tel placeholder=telefono >
+    
+</form>
+~
